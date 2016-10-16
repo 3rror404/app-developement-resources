@@ -17,4 +17,4 @@ Sizing ratios
 
 Material Design Icons
 
-https://design.google.com/icons/#ic_settings
+https://design.google.com/icons/
